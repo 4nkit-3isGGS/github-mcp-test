@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rec-001",
+    "name": "Mira Vale",
+    "category": "cartographer",
+    "active": true,
+    "tags": ["maps", "coast", "fiction"]
+  },
+  {
+    "id": "rec-002",
+    "name": "Juniper Finch",
+    "category": "botanist",
+    "active": false,
+    "tags": ["plants", "woodland", "fiction"]
+  },
+  {
+    "id": "rec-003",
+    "name": "Orin Bell",
+    "category": "clockmaker",
+    "active": true,
+    "tags": ["gears", "harbor", "fiction"]
+  }
+]
